@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queerfolk", "queerfolk\queerfolk.csproj", "{C4CD7BDC-C187-455A-B57A-47449ECE287B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queerfolk.Tests", "queerfolk.Tests\queerfolk.Tests.csproj", "{8B24BFE5-3BE2-432B-BDF8-9C3B702E50BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4CD7BDC-C187-455A-B57A-47449ECE287B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CD7BDC-C187-455A-B57A-47449ECE287B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CD7BDC-C187-455A-B57A-47449ECE287B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CD7BDC-C187-455A-B57A-47449ECE287B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B24BFE5-3BE2-432B-BDF8-9C3B702E50BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B24BFE5-3BE2-432B-BDF8-9C3B702E50BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B24BFE5-3BE2-432B-BDF8-9C3B702E50BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B24BFE5-3BE2-432B-BDF8-9C3B702E50BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
